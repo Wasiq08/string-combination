@@ -1,10 +1,9 @@
 # string-combination
 
-[![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/string-combination/)
-[(https://img.shields.io/github/issues/Wasiq08/string-combination)]
-[(https://img.shields.io/github/forks/Wasiq08/string-combination)]
-[(https://img.shields.io/github/stars/Wasiq08/string-combination)]
-
+[![npm (scoped)](https://img.shields.io/npm/v/string-combination)](https://www.npmjs.com/package/string-combination/)
+![](https://img.shields.io/github/issues/Wasiq08/string-combination)
+![](https://img.shields.io/github/stars/Wasiq08/string-combination)
+![](https://img.shields.io/github/forks/Wasiq08/string-combination)
 
 it generate all the combination of characters in a string
 
