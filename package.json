@@ -1,6 +1,6 @@
 {
   "name": "string-combination",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "It will generate all the combination of characters in a string",
   "main": "index.js",
   "author": "Wasiq Muhammad",
